@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631274718 source:c:\users\65905\onedrive - vnu.edu 1.vn\documents\c++_programming_for_teen\4_projects\guessit\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<limits>
+
